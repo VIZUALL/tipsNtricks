@@ -64,4 +64,4 @@ function do() {
 
 Néanmoins attention à la lisibilité.
 
-+ d'infos https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/Affecter_par_d%C3%A9composition
+Plus d'infos https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/Affecter_par_d%C3%A9composition
