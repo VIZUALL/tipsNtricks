@@ -65,3 +65,10 @@ function do() {
 Néanmoins attention à la lisibilité.
 
 Plus d'infos https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C3%A9rateurs/Affecter_par_d%C3%A9composition
+
+## Architecture React
+
+### Transitions
+
+Un point sur lequel faire attention lorsqu'un élément *enfant* utilise des transitions (en étendant **ReactItemTransition** notamment).
+**Un seul et unique objet doit gérer les transitions d'un élément react dans un même temps.** Par exemple, si l'élément *parent* lors de son apparition effectue une transition sur un élément *enfant*, ce dernier ne pourra pas effectuer de transition pendant ce temps. Et réciproquement. De plus aucune erreur ne sera générée...
