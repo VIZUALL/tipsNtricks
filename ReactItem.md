@@ -20,9 +20,9 @@ Les imports ne seront pas affichés.
   * [Moteur](#moteur)
 * [ReactItemTransition](#reactitemtransition)
   * [Indications](#indications)
-  * [Structure globale](#structure-globale)
-  * [Structure modèle](#structure-modèle)
-  * [Fonctions](#fonctions)
+  * [Structure globale](#structure-globale-1)
+  * [Structure modèle](#structure-modèle-1)
+  * [Fonctions](#fonctions-1)
 
 
 ---
@@ -472,4 +472,4 @@ A moins de souhaiter volontairement briser leur fonctionnement, **en cas de surc
 
 Si vous avez tout lu d'une traite vous méritez un :cookie: 
 
-[Retour en haut :arrow_up:](#reactitem)
+[Retour en haut :arrow_up:](#reactitem-fire)
