@@ -68,6 +68,8 @@ Plus d'infos https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Op%C
 
 ## Architecture React
 
+### [ReacItem](./ReactItem.md)
+
 ### Transitions
 
 Un point sur lequel faire attention lorsqu'un élément *enfant* utilise des transitions (en étendant **ReactItemTransition** notamment).
