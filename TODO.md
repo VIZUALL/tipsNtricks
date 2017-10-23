@@ -10,6 +10,8 @@
 | Model | Dimensions fictives: dimensions créée de toute pièce représentant une opération sur des colonnes d'autres dimensions. | 3 | 2 |
 | ReactItem | Elements ajoutés... | 3 | 3 |
 | Divers | Faciliter l'utilisation de plusieurs chemins possédant les ReactItem. Utiliser des dossiers différents selon l'usage du composant (widget, graph, ...). | 1 | 1 |
+| Component | VBarChart | 2 | 2 |
+| ReactItem/Model | Automatiser la gestion de l'opacité des éléments selon les filtres existants sur les dimensions concernées | 2 | 3 |
 
 ## Bugs
 
